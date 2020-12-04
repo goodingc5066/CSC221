@@ -1,0 +1,1 @@
+As discussed on Thursday, October 8th  the decimal class for the  salaried commission employee was not working properly but the code was correct.
